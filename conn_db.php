@@ -6,3 +6,4 @@ if($mysqli == false){
 } else{
     echo "Connect OKE to ";
 }
+$nan = 1;
